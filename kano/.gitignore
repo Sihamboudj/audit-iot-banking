@@ -1,0 +1,10 @@
+# Exclure les fichiers décompilés jadx (trop volumineux)
+mobile/insecurebank-decompiled/
+
+# Exclure les extractions binwalk (trop volumineux)
+firmware/_firmware.bin.extracted/
+
+# Garder seulement les fichiers importants
+!mobile/insecurebank.apk
+!firmware/firmware.bin
+
