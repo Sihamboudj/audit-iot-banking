@@ -1,5 +1,5 @@
 # Audit de sécurité IoT — Domaine Banking
-Équipe : Mehdi BOUAZRA, Siham BOUDJAIDI, Kyllian CAIOLA, Kano COULIBALY
+Équipe : Mehdi BOUAZRA, Siham BOUDJAIDI, Kyllian CAIOLA, Kano COULIBALY, Maxime VOISIN
 
 ## Cibles
 - Firmware : TP-Link Archer C50 V4
