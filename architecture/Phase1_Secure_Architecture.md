@@ -18,6 +18,8 @@ graph LR
     F["VULNÉRABILITÉS:<br/>- Pas de HTTPS<br/>- Credentials clair<br/>- Pas SSL pinning<br/>- Upload firmware non-signé<br/>- RCE root possible"]
     style F fill:#ff9999
 ```
+<img width="1250" height="672" alt="image" src="https://github.com/user-attachments/assets/d9e94e85-5cb9-46ee-9f73-fbedd3f95f72" />
+
 
 ## Architecture SÉCURISÉE (Recommandée)
 
